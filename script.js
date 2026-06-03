@@ -1,1 +1,1 @@
-alert {'hihi'}
+alert ('hihi')
